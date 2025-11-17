@@ -53,7 +53,7 @@ multi_agent_workflow/
 │       └── manager_agent.py        # Final campaign brief assembly
 │
 └── README.md
-
+```
 ## ⚙️ Installation
 1. Clone repository
 git clone https://github.com/<your-username>/multi-agent-workflow.git
