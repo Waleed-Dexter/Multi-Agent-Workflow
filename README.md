@@ -86,12 +86,12 @@ It will ask for:
 
 ## Example
 
-Product name: EcoSip Reusable Bottle
-Product description: Stylish insulated bottle that keeps drinks cold 24 hours
-Target audience: young professionals who care about sustainability
-Campaign goal: drive online sales for summer collection
-Tone: fresh, energetic, eco-friendly
-Channels: instagram, tiktok, email
+- Product name: EcoSip Reusable Bottle
+- Product description: Stylish insulated bottle that keeps drinks cold 24 hours
+- Target audience: young professionals who care about sustainability
+- Campaign goal: drive online sales for summer collection
+- Tone: fresh, energetic, eco-friendly
+- Channels: instagram, tiktok, email
 
 ## Output Includes
 
@@ -102,22 +102,14 @@ Channels: instagram, tiktok, email
 
 ## 🧠 How the Workflow Works
 
-Research Agent
-Generates insights, pain points, trends, and positioning angles.
-
-Copywriter Agent
-Creates messaging including tagline, headlines, and body copy.
-
-Art Director Agent
-Produces 3–5 detailed prompts for AI image generators.
-
-Manager Agent
-Combines all previous outputs into a final campaign brief in Markdown.
+- Research Agent: Generates insights, pain points, trends, and positioning angles.
+- Copywriter Agent: Creates messaging including tagline, headlines, and body copy.
+- Art Director Agent:Produces 3–5 detailed prompts for AI image generators.
+- Manager Agent: Combines all previous outputs into a final campaign brief in Markdown.
 
 ## 🎯 Why This Project Matters
 
 This project demonstrates:
-
 - Multi-agent orchestration
 - Practical workflow automation
 - Prompt engineering for specialized agent roles
